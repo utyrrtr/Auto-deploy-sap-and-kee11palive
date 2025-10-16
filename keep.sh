@@ -1,11 +1,11 @@
 #!/bin/sh
 
 # 环境变量配置
-EMAIL="gfd46vd@protonmail.com"   # 登录邮箱
-PASSWORD="m4@t7eqWmup"     # 登录密码
+EMAIL="qiuaos@protonmail.com"   # 登录邮箱
+PASSWORD="m4@t7eqWmp"     # 登录密码
 
 # 要保活的URL列表,多个用英文空格分隔
-URLS="https://free-sgneoiec.cfapps.ap21.hana.ondemand.com https://free-uscjtyqk.cfapps.us10-001.hana.ondemand.com"  
+URLS="https://free-sgorgron.cfapps.ap21.hana.ondemand.com https://free-usrnvqzg.cfapps.us10-001.hana.ondemand.com"  
 
 # 颜色定义
 green() {
